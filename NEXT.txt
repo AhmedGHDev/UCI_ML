@@ -22,3 +22,12 @@ https://archive.ics.uci.edu/ml/datasets/Heart+Disease [Where is the data?]
 https://archive.ics.uci.edu/ml/machine-learning-databases/icu/icu-data.tar.Z [No Attributes, Many files in one tar file]
 https://archive.ics.uci.edu/ml/machine-learning-databases/image/ [Attribtutes are 19 but rows have 20 instances, data file has comment lines starting with ;;; and empty lines too]
 https://archive.ics.uci.edu/ml/machine-learning-databases/internet_ads/ad-dataset.zip
+https://archive.ics.uci.edu/ml/machine-learning-databases/isolet/isolet1+2+3+4.data.Z [Read from a .Z file]
+https://archive.ics.uci.edu/ml/machine-learning-databases/kinship/kinship.data [data not stored in a standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/led-display-creator/ [data generated with C?]
+https://archive.ics.uci.edu/ml/datasets/Logic+Theorist [What is this?]
+https://archive.ics.uci.edu/ml/machine-learning-databases/mechanical-analysis/PUMPS-DATA-SET/DISTRIBUTION.Z [Z file]
+https://archive.ics.uci.edu/ml/machine-learning-databases/mobile-robots/mobile-robots.tar.gz [tar inside a tar...]
+
+git commit -m "[0S00]-[Adding DS]"
+git push origin HEAD:master
