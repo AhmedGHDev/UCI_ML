@@ -1,0 +1,24 @@
+phase01:
+Continue:
+https://archive.ics.uci.edu/ml/datasets.php : Chess (King-Rook vs. King-Knight)
+https://colab.research.google.com/drive/1ondHJf_Z5Ynj_Gfa4axcxCDvXHRalcsa#scrollTo=QBiREHTjIvJ5
+
+
+Check again:
+https://archive.ics.uci.edu/ml/machine-learning-databases/anonymous/anonymous-msweb.data
+https://archive.ics.uci.edu/ml/machine-learning-databases/arrhythmia/arrhythmia.data
+https://archive.ics.uci.edu/ml/machine-learning-databases/artificial-characters/character.tar.Z
+https://archive.ics.uci.edu/ml/machine-learning-databases/audiology/audiology.data [Number of Attributes is N/A, how?]
+https://archive.ics.uci.edu/ml/machine-learning-databases/audiology/audiology.standardized.data [226 rows in desciption, 200 while loading, why?]
+https://archive.ics.uci.edu/ml/machine-learning-databases/chess/king-rook-vs-king-knight/kr-vs-kkn.l [What is this?]
+https://archive.ics.uci.edu/ml/machine-learning-databases/chess/domain-theories/ [What is this?]
+https://archive.ics.uci.edu/ml/machine-learning-databases/chorales/chorales.lisp.Z [What is this?]
+https://archive.ics.uci.edu/ml/datasets/Japanese+Credit+Screening [What is this?]
+https://archive.ics.uci.edu/ml/machine-learning-databases/diabetes/diabetes-data.tar.Z [seperated fiels in a tar.z file]
+https://archive.ics.uci.edu/ml/machine-learning-databases/dgp-2/DGP-2.c [generate and load data]
+https://archive.ics.uci.edu/ml/machine-learning-databases/document-understanding/ [What is this?]
+https://archive.ics.uci.edu/ml/datasets/Function+Finding [different cases...]
+https://archive.ics.uci.edu/ml/datasets/Heart+Disease [Where is the data?]
+https://archive.ics.uci.edu/ml/machine-learning-databases/icu/icu-data.tar.Z [No Attributes, Many files in one tar file]
+https://archive.ics.uci.edu/ml/machine-learning-databases/image/ [Attribtutes are 19 but rows have 20 instances, data file has comment lines starting with ;;; and empty lines too]
+https://archive.ics.uci.edu/ml/machine-learning-databases/internet_ads/ad-dataset.zip
