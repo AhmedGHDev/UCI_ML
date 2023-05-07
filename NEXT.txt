@@ -1,7 +1,6 @@
 phase01:
 Continue:
-Servo
-https://archive.ics.uci.edu/ml/datasets/Servo
+Tic-Tac-Toe Endgame
 https://colab.research.google.com/drive/1ondHJf_Z5Ynj_Gfa4axcxCDvXHRalcsa#scrollTo=gyAgc73P3XTe
 
 
@@ -39,6 +38,9 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/page-blocks/page-block
 http://www.ics.uci.edu/~mlearn/databases/prodigy/ [No data]
 https://archive.ics.uci.edu/ml/datasets/Qualitative+Structure+Activity+Relationships [No attributes?]
 https://archive.ics.uci.edu/ml/datasets/Quadruped+Mammals [data generated in C]
+https://archive.ics.uci.edu/ml/machine-learning-databases/spectrometer/lrs.data [data is ont in standard form]
+https://archive.ics.uci.edu/ml/datasets/Statlog+Project [No Attributes]
+https://archive.ics.uci.edu/ml/machine-learning-databases/student-loan/ [File in Perl?]
 
 git commit -m "[0S00]-[Adding DS]"
 git push origin HEAD:main
