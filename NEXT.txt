@@ -1,6 +1,6 @@
 phase01:
 Continue:
-Tic-Tac-Toe Endgame
+https://archive.ics.uci.edu/ml/datasets/US+Census+Data+%281990%29
 https://colab.research.google.com/drive/1ondHJf_Z5Ynj_Gfa4axcxCDvXHRalcsa#scrollTo=gyAgc73P3XTe
 
 
@@ -41,6 +41,14 @@ https://archive.ics.uci.edu/ml/datasets/Quadruped+Mammals [data generated in C]
 https://archive.ics.uci.edu/ml/machine-learning-databases/spectrometer/lrs.data [data is ont in standard form]
 https://archive.ics.uci.edu/ml/datasets/Statlog+Project [No Attributes]
 https://archive.ics.uci.edu/ml/machine-learning-databases/student-loan/ [File in Perl?]
+https://archive.ics.uci.edu/ml/machine-learning-databases/trains/ [Data not standard]
+https://archive.ics.uci.edu/ml/machine-learning-databases/university/university.data [dataset is not standard]
+https://archive.ics.uci.edu/ml/machine-learning-databases/waveform/ [dataset is not standard]
+https://archive.ics.uci.edu/ml/datasets/Undocumented [feel free to explore!]
+https://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups [data not standard and no attributes]
+https://archive.ics.uci.edu/ml/machine-learning-databases/auslan-mld/allsigns.tar.gz [data is divided inside the gz file]
+https://archive.ics.uci.edu/ml/machine-learning-databases/auslan2-mld/tctodd.tar.gz [data is divided inside the gz file]
+
 
 git commit -m "[0S00]-[Adding DS]"
 git push origin HEAD:main
