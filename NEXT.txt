@@ -1,6 +1,6 @@
 phase01:
 Continue:
-https://archive.ics.uci.edu/ml/datasets/US+Census+Data+%281990%29
+M. Tuberculosis Genes
 https://colab.research.google.com/drive/1ondHJf_Z5Ynj_Gfa4axcxCDvXHRalcsa#scrollTo=gyAgc73P3XTe
 
 
@@ -48,7 +48,11 @@ https://archive.ics.uci.edu/ml/datasets/Undocumented [feel free to explore!]
 https://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups [data not standard and no attributes]
 https://archive.ics.uci.edu/ml/machine-learning-databases/auslan-mld/allsigns.tar.gz [data is divided inside the gz file]
 https://archive.ics.uci.edu/ml/machine-learning-databases/auslan2-mld/tctodd.tar.gz [data is divided inside the gz file]
-
+https://archive.ics.uci.edu/ml/datasets/E.+Coli+Genes [data most be generated in perl]
+https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/SMNI_CMI_TRAIN.tar.gz [dataset is not in standrd format]
+ https://archive.ics.uci.edu/ml/machine-learning-databases/entree-mld/entree_data.tar.gz  [data inside a subfolder in a gz file]
+https://archive.ics.uci.edu/ml/machine-learning-databases/faces-mld/ [data not in standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/kddcup99-mld/kddcup.data.gz [caanot define headers]
 
 git commit -m "[0S00]-[Adding DS]"
 git push origin HEAD:main
