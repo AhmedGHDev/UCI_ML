@@ -1,10 +1,12 @@
 phase01:
 Continue:
-M. Tuberculosis Genes
+https://archive.ics.uci.edu/ml/datasets/Statlog+%28Shuttle%29
 https://colab.research.google.com/drive/1ondHJf_Z5Ynj_Gfa4axcxCDvXHRalcsa#scrollTo=gyAgc73P3XTe
 
 
 Check again:
+https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/satimage/sat.trn [satellite]
+https://archive.ics.uci.edu/ml/machine-learning-databases/volcanoes-mld/volcanoes.tar.gz [Venus]
 https://archive.ics.uci.edu/ml/machine-learning-databases/anonymous/anonymous-msweb.data
 https://archive.ics.uci.edu/ml/machine-learning-databases/arrhythmia/arrhythmia.data
 https://archive.ics.uci.edu/ml/machine-learning-databases/artificial-characters/character.tar.Z
@@ -53,6 +55,17 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/SMNI_CMI_TRAIN
  https://archive.ics.uci.edu/ml/machine-learning-databases/entree-mld/entree_data.tar.gz  [data inside a subfolder in a gz file]
 https://archive.ics.uci.edu/ml/machine-learning-databases/faces-mld/ [data not in standard format]
 https://archive.ics.uci.edu/ml/machine-learning-databases/kddcup99-mld/kddcup.data.gz [caanot define headers]
+https://archive.ics.uci.edu/ml/datasets/M.+Tuberculosis+Genes [data in Perl code]
+https://archive.ics.uci.edu/ml/machine-learning-databases/movies-mld/data/ [data in mulitple files for sql]
+https://archive.ics.uci.edu/ml/machine-learning-databases/msnbc-mld/msnbc990928.seq.gz [data not in standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/nsfabs-mld/ [NLP]
+https://archive.ics.uci.edu/ml/datasets/Pioneer-1+Mobile+Robot+Data [data is devided into multiple files]
+https://archive.ics.uci.edu/ml/machine-learning-databases/reuters21578-mld/reuters21578.tar.gz [data in multi files in the gzip file]
+https://archive.ics.uci.edu/ml/machine-learning-databases/robotfailure-mld/ [data not in standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/SyskillWebert-mld/SyskillWebert.tar.gz [data is divided in folders in the tar file]
+https://archive.ics.uci.edu/ml/machine-learning-databases/UNIX_user_data-mld/UNIX_user_data.tar.gz [data is divided in folders in the tar file]
+
+
 
 git commit -m "[0S00]-[Adding DS]"
 git push origin HEAD:main
