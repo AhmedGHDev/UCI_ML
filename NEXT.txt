@@ -5,6 +5,7 @@ https://colab.research.google.com/drive/1ondHJf_Z5Ynj_Gfa4axcxCDvXHRalcsa#scroll
 
 
 Check again:
+https://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope [atmospheric Cherenkov telescope]
 https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/satimage/sat.trn [satellite]
 https://archive.ics.uci.edu/ml/machine-learning-databases/volcanoes-mld/volcanoes.tar.gz [Venus]
 https://archive.ics.uci.edu/ml/machine-learning-databases/anonymous/anonymous-msweb.data
@@ -64,8 +65,13 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/reuters21578-mld/reute
 https://archive.ics.uci.edu/ml/machine-learning-databases/robotfailure-mld/ [data not in standard format]
 https://archive.ics.uci.edu/ml/machine-learning-databases/SyskillWebert-mld/SyskillWebert.tar.gz [data is divided in folders in the tar file]
 https://archive.ics.uci.edu/ml/machine-learning-databases/UNIX_user_data-mld/UNIX_user_data.tar.gz [data is divided in folders in the tar file]
-
-
+https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/shuttle/shuttle.trn.Z [data in a Z file]
+https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/connectionist-bench/nettalk/nettalk.data [data not in standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/connectionist-bench/vowel/vowel.data [data not in standard format]
+https://archive.ics.uci.edu/ml/datasets/Economic+Sanctions [No data]
+https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/taylor/cloud.data [Data not in standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/uji-penchars/version1/ [not standard format]
+https://archive.ics.uci.edu/ml/datasets/Reuters+Transcribed+Subset [404]
 
 git commit -m "[0S00]-[Adding DS]"
 git push origin HEAD:main
