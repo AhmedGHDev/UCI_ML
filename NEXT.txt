@@ -1,6 +1,5 @@
 phase01:
 Continue:
-https://archive.ics.uci.edu/ml/datasets/Statlog+%28Shuttle%29
 https://colab.research.google.com/drive/1ondHJf_Z5Ynj_Gfa4axcxCDvXHRalcsa#scrollTo=gyAgc73P3XTe
 
 
@@ -72,6 +71,17 @@ https://archive.ics.uci.edu/ml/datasets/Economic+Sanctions [No data]
 https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/taylor/cloud.data [Data not in standard format]
 https://archive.ics.uci.edu/ml/machine-learning-databases/uji-penchars/version1/ [not standard format]
 https://archive.ics.uci.edu/ml/datasets/Reuters+Transcribed+Subset [404]
+https://archive.ics.uci.edu/ml/machine-learning-databases/bag-of-words/ [data not in standard form]
+https://archive.ics.uci.edu/ml/machine-learning-databases/dexter/ [Not in standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/dorothea/ [Not in standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/gisette/ [Not in standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/madelon/ [Not in standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/abscisic-acid/plantCellSignaling.data [Not in standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/character-trajectories/mixoutALL_shifted.mat [Not in standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/uji-penchars/version2/ujipenchars2.txt [Not in standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/secom/secom.data [Could not know attributes names]
+https://archive.ics.uci.edu/ml/machine-learning-databases/plants/plants.data [Not in standard format]
+
 
 git commit -m "[0S00]-[Adding DS]"
 git push origin HEAD:main
