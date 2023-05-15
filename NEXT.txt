@@ -81,7 +81,9 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/character-trajectories
 https://archive.ics.uci.edu/ml/machine-learning-databases/uji-penchars/version2/ujipenchars2.txt [Not in standard format]
 https://archive.ics.uci.edu/ml/machine-learning-databases/secom/secom.data [Could not know attributes names]
 https://archive.ics.uci.edu/ml/machine-learning-databases/plants/plants.data [Not in standard format]
-
+https://archive.ics.uci.edu/ml/machine-learning-databases/url/url_svmlight.tar.gz [Not in standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/demospongiae/ [Not in standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/opinion/OpinosisDataset1.0.zip [Not in standard format]
 
 git commit -m "[0S00]-[Adding DS]"
 git push origin HEAD:main
