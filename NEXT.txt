@@ -88,6 +88,17 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/opinion/OpinosisDatase
 https://archive.ics.uci.edu/ml/machine-learning-databases/00193/CTG.xls [Not in standard format]
 https://archive.ics.uci.edu/ml/machine-learning-databases/00197/AU.zip [arff format ???]
 https://archive.ics.uci.edu/ml/machine-learning-databases/00204/PEMS-SF.zip [not in standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/00205/OpinRankDataset.zip [Data not in standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/00208/Online%20Handwritten%20Assamese%20Characters%20Dataset.rar [Data not in standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/00212/vertebral_column_data.zip [arff inside a  zip]
+https://archive.ics.uci.edu/ml/machine-learning-databases/00213/EMG%20Physical%20Action%20Data%20Set.rar  [Data not in standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/00214/Vicon%20Physical%20Action%20Data%20Set.rar [Data not in standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/00215/Amazon_initial_50_30_10000.rar [Data not in standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/00216/amzn-anon-access-samples.tgz [multiple csv files in a single tgz file]
+https://archive.ics.uci.edu/ml/machine-learning-databases/00217/C50.zip [Data not in standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/00218/farm-data.zip [Data not in standard format]
+https://archive.ics.uci.edu/ml/machine-learning-databases/00219/dbworld.zip [arff, nested files]
+
 
 git commit -m "[0S00]-[Adding DS]"
 git push origin HEAD:main
