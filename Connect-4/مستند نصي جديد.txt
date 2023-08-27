@@ -1,0 +1,10 @@
+https://archive.ics.uci.edu/ml/machine-learning-databases/connect-4/
+https://archive.ics.uci.edu/ml/machine-learning-databases/connect-4/connect-4.data.Z
+
+
+import zipfile
+df = pd.read_csv("https://archive.ics.uci.edu/ml/machine-learning-databases/connect-4/connect-4.data.Z",
+                 compression='zstd', 
+                 names=[chr(j)+str(i) for j in range(ord("a"), ord("a")+6) for i in range(1,7)]+["Class"])
+
+still cannot open file
